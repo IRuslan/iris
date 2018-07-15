@@ -5,11 +5,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/kataras/iris/context"
-	"github.com/kataras/iris/core/router"
-	"github.com/kataras/iris/core/router/macro"
-	"github.com/kataras/iris/hero"
-	"github.com/kataras/iris/hero/di"
+	"github.com/IRuslan/iris/context"
+	"github.com/IRuslan/iris/core/router"
+	"github.com/IRuslan/iris/core/router/macro"
+	"github.com/IRuslan/iris/hero"
+	"github.com/IRuslan/iris/hero/di"
 
 	"github.com/kataras/golog"
 )

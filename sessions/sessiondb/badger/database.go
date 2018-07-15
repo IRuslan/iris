@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/kataras/golog"
-	"github.com/kataras/iris/core/errors"
-	"github.com/kataras/iris/sessions"
+	"github.com/IRuslan/iris/core/errors"
+	"github.com/IRuslan/iris/sessions"
 
 	"github.com/dgraph-io/badger"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/mvc"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/mvc"
 )
 
 type postValue func(string) string

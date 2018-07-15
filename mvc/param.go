@@ -3,9 +3,9 @@ package mvc
 import (
 	"reflect"
 
-	"github.com/kataras/iris/context"
-	"github.com/kataras/iris/core/router/macro"
-	"github.com/kataras/iris/core/router/macro/interpreter/ast"
+	"github.com/IRuslan/iris/context"
+	"github.com/IRuslan/iris/core/router/macro"
+	"github.com/IRuslan/iris/core/router/macro/interpreter/ast"
 )
 
 func getPathParamsForInput(params []macro.TemplateParam, funcIn ...reflect.Type) (values []reflect.Value) {

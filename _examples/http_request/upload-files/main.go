@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kataras/iris"
+	"github.com/IRuslan/iris"
 )
 
 func main() {

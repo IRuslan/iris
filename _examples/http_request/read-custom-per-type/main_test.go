@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/kataras/iris/httptest"
+	"github.com/IRuslan/iris/httptest"
 )
 
 func TestReadCustomPerType(t *testing.T) {

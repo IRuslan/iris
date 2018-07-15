@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/hero"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/hero"
 )
 
 func main() {

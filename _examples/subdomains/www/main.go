@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kataras/iris"
+	"github.com/IRuslan/iris"
 )
 
 func newApp() *iris.Application {

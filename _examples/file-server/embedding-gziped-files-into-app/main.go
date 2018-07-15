@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kataras/iris"
+	"github.com/IRuslan/iris"
 )
 
 // NOTE: need different tool than the "embedding-files-into-app" example.

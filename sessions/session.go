@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/kataras/iris/core/errors"
+	"github.com/IRuslan/iris/core/errors"
 )
 
 type (

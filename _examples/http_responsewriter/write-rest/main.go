@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/xml"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/context"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/context"
 )
 
 // User bind struct

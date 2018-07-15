@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kataras/iris/context"
+	"github.com/IRuslan/iris/context"
 )
 
 var (

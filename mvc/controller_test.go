@@ -4,12 +4,12 @@ package mvc_test
 import (
 	"testing"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/context"
-	"github.com/kataras/iris/core/router"
-	"github.com/kataras/iris/httptest"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/context"
+	"github.com/IRuslan/iris/core/router"
+	"github.com/IRuslan/iris/httptest"
 
-	. "github.com/kataras/iris/mvc"
+	. "github.com/IRuslan/iris/mvc"
 )
 
 type testController struct {

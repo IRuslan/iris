@@ -3,12 +3,12 @@
 package controllers
 
 import (
-	"github.com/kataras/iris/_examples/mvc/login/datamodels"
-	"github.com/kataras/iris/_examples/mvc/login/services"
+	"github.com/IRuslan/iris/_examples/mvc/login/datamodels"
+	"github.com/IRuslan/iris/_examples/mvc/login/services"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/mvc"
-	"github.com/kataras/iris/sessions"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/mvc"
+	"github.com/IRuslan/iris/sessions"
 )
 
 // UserController is our /user controller.

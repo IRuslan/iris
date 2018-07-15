@@ -4,10 +4,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/kataras/iris"
+	"github.com/IRuslan/iris"
 
-	"github.com/kataras/iris/sessions"
-	"github.com/kataras/iris/sessions/sessiondb/boltdb"
+	"github.com/IRuslan/iris/sessions"
+	"github.com/IRuslan/iris/sessions/sessiondb/boltdb"
 )
 
 func main() {

@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/httptest"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/httptest"
 
-	. "github.com/kataras/iris/hero"
+	. "github.com/IRuslan/iris/hero"
 )
 
 // dynamic func

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/kataras/iris/_examples/http_responsewriter/quicktemplate/controllers"
+	"github.com/IRuslan/iris/_examples/http_responsewriter/quicktemplate/controllers"
 
-	"github.com/kataras/iris"
+	"github.com/IRuslan/iris"
 )
 
 func newApp() *iris.Application {

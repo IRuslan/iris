@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/kataras/iris"
+	"github.com/IRuslan/iris"
 
 	"github.com/nfnt/resize"
 )

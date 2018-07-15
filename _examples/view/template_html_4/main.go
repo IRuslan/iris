@@ -2,8 +2,8 @@
 package main
 
 import (
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/core/router"
+	"github.com/IRuslan/iris"
+	"github.com/IRuslan/iris/core/router"
 )
 
 const (
